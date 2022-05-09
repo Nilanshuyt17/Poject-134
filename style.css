@@ -1,0 +1,19 @@
+body {
+    background-image: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#status
+{
+font-size: 18px;
+}
+
+canvas {
+    border: 4px solid brown;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px wheat;
+}
